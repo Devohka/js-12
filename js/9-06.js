@@ -104,4 +104,4 @@ const showDiscountedPrice = function (price, discount) {
       return price - discount;
   }
 
- console.log(calculateDiscountedPrice(100, 10, showDiscountedPrice));
+ console.log(calculateDiscountedPrice(100, 10, showDiscountedPrice));// Discounted price: 90
